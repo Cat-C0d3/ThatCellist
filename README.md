@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bailey, a SE student at MSOE!
+- 👋 Hi, I’m Bailey, a Software Engineering student at MSOE!
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning C# and Angular.
 - 📫 How to reach me -- email: baifranklin617@gmail.com
